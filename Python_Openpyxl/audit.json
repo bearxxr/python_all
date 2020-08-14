@@ -1,0 +1,229 @@
+[{
+    "_id": "202008110001",
+    "发票所属公司": "上海商舟",
+    "销售组": "A1",
+    "批次号": "MARK20200811-01",
+    "备注": "测试",
+    "提交日期": "1597075200",
+    "发票文件": [
+        {
+            "file_id": "WWCISP_VH1Slr27Z_igcbcUmsfC4lx6Zn0I6gurecymvdtPmlo_d1XNboYEOVex-7pkK_D44q8Q8oQNf76VFHzSpc4v8IgvttPJXumjWC92RgAMFvGmSFO5GIwQzHF1FR_Ddj4TnBB0OVJqjA6GmTh9uHNO6t2kPdMAzVsvCTAok7fiPKSfh1o16sHDmr8bgXz3bCLfZ4TgVrED9NTgPH3m72q_xktIMGsLlEzCiFIRZMkvtf76nKFqOnjRc0Yogw4EPgNG"
+        }
+    ],
+
+    "sp_no": "202008110001",
+
+    "original": {
+        "errcode": 0,
+        "errmsg": "ok",
+        "info": {
+            "sp_no": "202008110001",
+            "sp_name": "采购订单发票上传",
+            "sp_status": 2,
+            "template_id": "Bs7ud8QcYvUbAmXfVGv4wkiQBZff7voApQCjgrfrj",
+            "apply_time": 1597127292,
+            "applyer": {
+                "userid": "YM13818103110",
+                "partyid": "1624017538"
+            },
+            "sp_record": [
+                {
+                    "sp_status": 2,
+                    "approverattr": 1,
+                    "details": [
+                        {
+                            "approver": {
+                                "userid": "YM13818103110"
+                            },
+                            "speech": "",
+                            "sp_status": 2,
+                            "sptime": 1597127300,
+                            "media_id": []
+                        },
+                        {
+                            "approver": {
+                                "userid": "YM-18235135436"
+                            },
+                            "speech": "",
+                            "sp_status": 1,
+                            "sptime": 0,
+                            "media_id": []
+                        }
+                    ]
+                }
+            ],
+            "notifyer": [],
+            "apply_data": {
+                "contents": [
+                    {
+                        "control": "Selector",
+                        "id": "Selector-1585045175540",
+                        "title": [
+                            {
+                                "text": "发票所属公司",
+                                "lang": "zh_CN"
+                            }
+                        ],
+                        "value": {
+                            "tips": [],
+                            "members": [],
+                            "departments": [],
+                            "files": [],
+                            "children": [],
+                            "stat_field": [],
+                            "selector": {
+                                "type": "single",
+                                "options": [
+                                    {
+                                        "key": "option-1585045175541",
+                                        "value": [
+                                            {
+                                                "text": "上海商舟",
+                                                "lang": "zh_CN"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            "sum_field": [],
+                            "related_approval": []
+                        }
+                    },
+                    {
+                        "control": "Text",
+                        "id": "Text-1585045517249",
+                        "title": [
+                            {
+                                "text": "销售组",
+                                "lang": "zh_CN"
+                            }
+                        ],
+                        "value": {
+                            "text": "A1",
+                            "tips": [],
+                            "members": [],
+                            "departments": [],
+                            "files": [],
+                            "children": [],
+                            "stat_field": [],
+                            "sum_field": [],
+                            "related_approval": []
+                        }
+                    },
+                    {
+                        "control": "Text",
+                        "id": "Text-1585472378152",
+                        "title": [
+                            {
+                                "text": "批次号",
+                                "lang": "zh_CN"
+                            }
+                        ],
+                        "value": {
+                            "text": "MARK20200811-01",
+                            "tips": [],
+                            "members": [],
+                            "departments": [],
+                            "files": [],
+                            "children": [],
+                            "stat_field": [],
+                            "sum_field": [],
+                            "related_approval": []
+                        }
+                    },
+                    {
+                        "control": "Textarea",
+                        "id": "Textarea-1568876680138",
+                        "title": [
+                            {
+                                "text": "备注",
+                                "lang": "zh_CN"
+                            },
+                            {
+                                "text": "Opinions",
+                                "lang": "en"
+                            }
+                        ],
+                        "value": {
+                            "text": "测试",
+                            "tips": [],
+                            "members": [],
+                            "departments": [],
+                            "files": [],
+                            "children": [],
+                            "stat_field": [],
+                            "sum_field": [],
+                            "related_approval": []
+                        }
+                    },
+                    {
+                        "control": "Date",
+                        "id": "Date-1585472436903",
+                        "title": [
+                            {
+                                "text": "提交日期",
+                                "lang": "zh_CN"
+                            }
+                        ],
+                        "value": {
+                            "tips": [],
+                            "members": [],
+                            "departments": [],
+                            "date": {
+                                "type": "day",
+                                "s_timestamp": "1597075200"
+                            },
+                            "files": [],
+                            "children": [],
+                            "stat_field": [],
+                            "sum_field": [],
+                            "related_approval": []
+                        }
+                    },
+                    {
+                        "control": "File",
+                        "id": "File-1568876662804",
+                        "title": [
+                            {
+                                "text": "发票文件",
+                                "lang": "zh_CN"
+                            },
+                            {
+                                "text": "Attachment",
+                                "lang": "en"
+                            }
+                        ],
+                        "value": {
+                            "tips": [],
+                            "members": [],
+                            "departments": [],
+                            "files": [
+                                {
+                                    "file_id": "WWCISP_VH1Slr27Z_igcbcUmsfC4lx6Zn0I6gurecymvdtPmlo_d1XNboYEOVex-7pkK_D44q8Q8oQNf76VFHzSpc4v8IgvttPJXumjWC92RgAMFvGmSFO5GIwQzHF1FR_Ddj4TnBB0OVJqjA6GmTh9uHNO6t2kPdMAzVsvCTAok7fiPKSfh1o16sHDmr8bgXz3bCLfZ4TgVrED9NTgPH3m72q_xktIMGsLlEzCiFIRZMkvtf76nKFqOnjRc0Yogw4EPgNG"
+                                }
+                            ],
+                            "children": [],
+                            "stat_field": [],
+                            "sum_field": [],
+                            "related_approval": []
+                        }
+                    }
+                ]
+            },
+            "comments": []
+        }
+    },
+
+    "processingTime": "2020-08-11T06:28:23.791Z",
+    "applyer": "YM13818103110",
+    "ocr": [
+        {
+            "name": "62979983_247.5RMB.pdf",
+            "content": {
+                "log_id": "1293071748496883712",
+                "error_msg": "image size error",
+                "error_code": 216202
+            }
+        }
+    ]
+}]
