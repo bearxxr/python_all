@@ -10,6 +10,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -20,10 +21,13 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Python_Openpyxl" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -31,8 +35,8 @@
       <recent name="C:\Users\YAE\Desktop\python_all\python_work" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test">
-    <configuration name="python连接Excel (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.017-@property装饰器">
+    <configuration name="005-匿名函数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_all" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -40,12 +44,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Openpyxl" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Openpyxl/python连接Excel.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/005-匿名函数.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -54,7 +58,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="python连接Excel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="014-python的字符编码" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_all" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,12 +66,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_work" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_work/python连接Excel.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/014-python的字符编码.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -76,7 +80,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="python_for_excel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="015-给类动态的添加属性" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_all" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,12 +88,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Openpyxl" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Openpyxl/python_for_excel.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/015-给类动态的添加属性.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -98,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="016-__slots__方法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_all" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -106,12 +110,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Openpyxl" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Openpyxl/test.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\YAE\Desktop\python_all\016-__slots__方法.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="017-@property装饰器" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_all" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,12 +132,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Openpyxl" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Openpyxl/test2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/017-@property装饰器.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.python_for_excel" />
-        <item itemvalue="Python.test2" />
-        <item itemvalue="Python.python连接Excel (1)" />
-        <item itemvalue="Python.python连接Excel" />
+        <item itemvalue="Python.017-@property装饰器" />
+        <item itemvalue="Python.016-__slots__方法" />
+        <item itemvalue="Python.015-给类动态的添加属性" />
+        <item itemvalue="Python.014-python的字符编码" />
+        <item itemvalue="Python.005-匿名函数" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +168,15 @@
       <updated>1597306394266</updated>
       <workItem from="1597306395562" duration="5067000" />
       <workItem from="1597366996116" duration="1304000" />
-      <workItem from="1597381246026" duration="15255000" />
+      <workItem from="1597381246026" duration="20533000" />
+      <workItem from="1597459786927" duration="3365000" />
+      <workItem from="1597624612975" duration="11476000" />
+      <workItem from="1597649355653" duration="78000" />
+      <workItem from="1597649443298" duration="3577000" />
+      <workItem from="1597653151836" duration="2293000" />
+      <workItem from="1597827293675" duration="2128000" />
+      <workItem from="1597915216429" duration="4447000" />
+      <workItem from="1597981818559" duration="886000" />
     </task>
     <servers />
   </component>
@@ -172,6 +184,10 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="690" y="238" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597828108220">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="690" y="238" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2194.1194@0.0.2194.1194" timestamp="1597828108220" />
     <state x="777" y="360" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597391295751">
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
@@ -180,47 +196,77 @@
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
     <state x="697" y="222" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2194.1194@0.0.2194.1194" timestamp="1597381637238" />
-    <state width="2133" height="446" key="GridCell.Tab.0.bottom" timestamp="1597395808232">
+    <state x="772" y="233" key="FileChooserDialogImpl" timestamp="1597828201669">
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
-    <state width="2133" height="446" key="GridCell.Tab.0.bottom/0.0.2194.1194@0.0.2194.1194" timestamp="1597395808232" />
-    <state width="2133" height="446" key="GridCell.Tab.0.center" timestamp="1597395808232">
+    <state x="772" y="233" key="FileChooserDialogImpl/0.0.2194.1194@0.0.2194.1194" timestamp="1597828201669" />
+    <state width="2133" height="420" key="GridCell.Tab.0.bottom" timestamp="1597922858834">
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
-    <state width="2133" height="446" key="GridCell.Tab.0.center/0.0.2194.1194@0.0.2194.1194" timestamp="1597395808232" />
-    <state width="2133" height="446" key="GridCell.Tab.0.left" timestamp="1597395808232">
+    <state width="2133" height="420" key="GridCell.Tab.0.bottom/0.0.2194.1194@0.0.2194.1194" timestamp="1597922858834" />
+    <state width="2133" height="420" key="GridCell.Tab.0.center" timestamp="1597922858834">
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
-    <state width="2133" height="446" key="GridCell.Tab.0.left/0.0.2194.1194@0.0.2194.1194" timestamp="1597395808232" />
-    <state width="2133" height="446" key="GridCell.Tab.0.right" timestamp="1597395808232">
+    <state width="2133" height="420" key="GridCell.Tab.0.center/0.0.2194.1194@0.0.2194.1194" timestamp="1597922858834" />
+    <state width="2133" height="420" key="GridCell.Tab.0.left" timestamp="1597922858834">
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
-    <state width="2133" height="446" key="GridCell.Tab.0.right/0.0.2194.1194@0.0.2194.1194" timestamp="1597395808232" />
-    <state width="2133" height="226" key="GridCell.Tab.1.bottom" timestamp="1597386881633">
+    <state width="2133" height="420" key="GridCell.Tab.0.left/0.0.2194.1194@0.0.2194.1194" timestamp="1597922858834" />
+    <state width="2133" height="420" key="GridCell.Tab.0.right" timestamp="1597922858834">
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
-    <state width="2133" height="226" key="GridCell.Tab.1.bottom/0.0.2194.1194@0.0.2194.1194" timestamp="1597386881633" />
-    <state width="2133" height="226" key="GridCell.Tab.1.center" timestamp="1597386881633">
+    <state width="2133" height="420" key="GridCell.Tab.0.right/0.0.2194.1194@0.0.2194.1194" timestamp="1597922858834" />
+    <state width="2133" height="346" key="GridCell.Tab.1.bottom" timestamp="1597829424039">
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
-    <state width="2133" height="226" key="GridCell.Tab.1.center/0.0.2194.1194@0.0.2194.1194" timestamp="1597386881633" />
-    <state width="2133" height="226" key="GridCell.Tab.1.left" timestamp="1597386881633">
+    <state width="2133" height="346" key="GridCell.Tab.1.bottom/0.0.2194.1194@0.0.2194.1194" timestamp="1597829424039" />
+    <state width="2133" height="346" key="GridCell.Tab.1.center" timestamp="1597829424039">
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
-    <state width="2133" height="226" key="GridCell.Tab.1.left/0.0.2194.1194@0.0.2194.1194" timestamp="1597386881633" />
-    <state width="2133" height="226" key="GridCell.Tab.1.right" timestamp="1597386881633">
+    <state width="2133" height="346" key="GridCell.Tab.1.center/0.0.2194.1194@0.0.2194.1194" timestamp="1597829424039" />
+    <state width="2133" height="346" key="GridCell.Tab.1.left" timestamp="1597829424039">
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
-    <state width="2133" height="226" key="GridCell.Tab.1.right/0.0.2194.1194@0.0.2194.1194" timestamp="1597386881633" />
+    <state width="2133" height="346" key="GridCell.Tab.1.left/0.0.2194.1194@0.0.2194.1194" timestamp="1597829424039" />
+    <state width="2133" height="346" key="GridCell.Tab.1.right" timestamp="1597829424039">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="2133" height="346" key="GridCell.Tab.1.right/0.0.2194.1194@0.0.2194.1194" timestamp="1597829424039" />
+    <state x="371" y="68" key="SettingsEditor" timestamp="1597649532098">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="371" y="68" key="SettingsEditor/0.0.2194.1194@0.0.2194.1194" timestamp="1597649532098" />
+    <state x="910" y="144" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1597828156893">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="910" y="144" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.2194.1194@0.0.2194.1194" timestamp="1597828156893" />
+    <state x="567" y="135" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1597654586924">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="567" y="135" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.2194.1194@0.0.2194.1194" timestamp="1597654586924" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/python_all$001_test.coverage" NAME="001-test Coverage Results" MODIFIED="1597312792432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_all$009_.coverage" NAME="009-函数设置私有属性 Coverage Results" MODIFIED="1597649088958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_all$pythonExcel.coverage" NAME="python连接Excel Coverage Results" MODIFIED="1597381982409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_work" />
+    <SUITE FILE_PATH="coverage/python_all$008_.coverage" NAME="008-函数模块 Coverage Results" MODIFIED="1597647274404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_all$015_.coverage" NAME="015-给类动态的添加属性 Coverage Results" MODIFIED="1597919916226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_all$012_pythonsetattr.coverage" NAME="012-python的setattr属性 Coverage Results" MODIFIED="1597652327917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_all$002_filter.coverage" NAME="002-filter Coverage Results" MODIFIED="1597311757431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_all$test.coverage" NAME="test Coverage Results" MODIFIED="1597395793342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Openpyxl" />
+    <SUITE FILE_PATH="coverage/python_all$007_.coverage" NAME="007-偏函数 Coverage Results" MODIFIED="1597645936288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_all$pythonExcel__1_.coverage" NAME="python连接Excel (1) Coverage Results" MODIFIED="1597386188768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Openpyxl" />
-    <SUITE FILE_PATH="coverage/python_all$python_for_excel.coverage" NAME="python_for_excel Coverage Results" MODIFIED="1597395722942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Openpyxl" />
+    <SUITE FILE_PATH="coverage/python_all$016___slots__.coverage" NAME="016-__slots__方法 Coverage Results" MODIFIED="1597920469097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_all$003_sorted.coverage" NAME="003-sorted函数 Coverage Results" MODIFIED="1597313213263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_all$017__property.coverage" NAME="017-@property装饰器 Coverage Results" MODIFIED="1597921483208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_all$013_.coverage" NAME="013-实例属性和类属性 Coverage Results" MODIFIED="1597652445580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_all$006_.coverage" NAME="006-装饰器 Coverage Results" MODIFIED="1597644309327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_all$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1597394915302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Openpyxl" />
+    <SUITE FILE_PATH="coverage/python_all$001_test.coverage" NAME="001-test Coverage Results" MODIFIED="1597312792432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_all$010_.coverage" NAME="010-类的继承和多态 Coverage Results" MODIFIED="1597649928216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_all$005_.coverage" NAME="005-匿名函数 Coverage Results" MODIFIED="1597827385649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_all$014_python.coverage" NAME="014-python的字符编码 Coverage Results" MODIFIED="1597918685989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_all$test.coverage" NAME="test Coverage Results" MODIFIED="1597395793342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Openpyxl" />
+    <SUITE FILE_PATH="coverage/python_all$python_for_excel.coverage" NAME="python_for_excel Coverage Results" MODIFIED="1597395722942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Openpyxl" />
+    <SUITE FILE_PATH="coverage/python_all$004_.coverage" NAME="004-返回函数 Coverage Results" MODIFIED="1597636357216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_all$011_.coverage" NAME="011-获取对象的所有属性和方法 Coverage Results" MODIFIED="1597650968456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

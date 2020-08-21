@@ -16,6 +16,7 @@ print(cell.row, cell.column, cell.value)
 print(sheet.max_row)
 print(sheet.max_column)  # 获取最大行数和最大列数
 
+
 ##访问所有单元格的信息
 print(type(sheet.rows))  # sheet的所有行和所有列都是一个生成器
 for row in sheet.rows:
