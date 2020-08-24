@@ -21,4 +21,3 @@ print(s2.get_score())
 
 
 
-
