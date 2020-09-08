@@ -1,8 +1,13 @@
-def fn():
-    print('Hello World!')
+def fn(x):
+    return "Hello World"
 
 
-Hello = type('Hello', (object,), dict(hello=fn))
+# type创建一个类时需要在方法中加一个参数
+Hello = type('Hello', (object,), {'hello': fn})
+
 a = Hello()
 print(type(a))
-a.hello()
+print(a.hello())
+
+
+

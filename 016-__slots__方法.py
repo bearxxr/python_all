@@ -1,3 +1,4 @@
+# __slots__可以动态的赋值属性
 class Animal:
     __slots__ = ['age', 'score']
 

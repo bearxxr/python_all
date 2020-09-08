@@ -35,73 +35,7 @@
       <recent name="C:\Users\YAE\Desktop\python_all\python_work" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.024-元类">
-    <configuration name="020-__getitem__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_all" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/020-__getitem__.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="021-__getattr__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_all" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/021-__getattr__.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="022-__call__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_all" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/022-__call__.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.032-os模块">
     <configuration name="023-枚举类" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_all" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -124,7 +58,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="024-元类" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="028-logging日志" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_all" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,7 +71,73 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/024-元类.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/028-logging日志.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="030-StringIO" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_all" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/030-StringIO.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="031-BytesIO" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_all" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/031-BytesIO.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="032-os模块" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_all" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/032-os模块.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.024-元类" />
+        <item itemvalue="Python.032-os模块" />
         <item itemvalue="Python.023-枚举类" />
-        <item itemvalue="Python.022-__call__" />
-        <item itemvalue="Python.021-__getattr__" />
-        <item itemvalue="Python.020-__getitem__" />
+        <item itemvalue="Python.031-BytesIO" />
+        <item itemvalue="Python.030-StringIO" />
+        <item itemvalue="Python.028-logging日志" />
       </list>
     </recent_temporary>
   </component>
@@ -180,6 +180,23 @@
       <workItem from="1598005130816" duration="3552000" />
       <workItem from="1598057981968" duration="659000" />
       <workItem from="1598254122438" duration="9424000" />
+      <workItem from="1598265827813" duration="46000" />
+      <workItem from="1598335467428" duration="2383000" />
+      <workItem from="1598353445563" duration="1489000" />
+      <workItem from="1598402822458" duration="936000" />
+      <workItem from="1598409217794" duration="1974000" />
+      <workItem from="1598498968757" duration="7402000" />
+      <workItem from="1598526601729" duration="82000" />
+      <workItem from="1598576334943" duration="728000" />
+      <workItem from="1598600118559" duration="3797000" />
+      <workItem from="1598611562784" duration="13000" />
+      <workItem from="1599042108441" duration="1864000" />
+      <workItem from="1599094436558" duration="307000" />
+      <workItem from="1599094761869" duration="9000" />
+      <workItem from="1599127901722" duration="1674000" />
+      <workItem from="1599131326297" duration="107000" />
+      <workItem from="1599207129935" duration="605000" />
+      <workItem from="1599550283774" duration="2483000" />
     </task>
     <servers />
   </component>
@@ -199,26 +216,26 @@
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
     <state x="697" y="222" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2194.1194@0.0.2194.1194" timestamp="1597381637238" />
-    <state x="772" y="233" key="FileChooserDialogImpl" timestamp="1598064352821">
+    <state x="772" y="233" key="FileChooserDialogImpl" timestamp="1599131431411">
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
-    <state x="772" y="233" key="FileChooserDialogImpl/0.0.2194.1194@0.0.2194.1194" timestamp="1598064352821" />
-    <state width="2133" height="346" key="GridCell.Tab.0.bottom" timestamp="1598264011514">
+    <state x="772" y="233" key="FileChooserDialogImpl/0.0.2194.1194@0.0.2194.1194" timestamp="1599131431411" />
+    <state width="2133" height="385" key="GridCell.Tab.0.bottom" timestamp="1599552834392">
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
-    <state width="2133" height="346" key="GridCell.Tab.0.bottom/0.0.2194.1194@0.0.2194.1194" timestamp="1598264011514" />
-    <state width="2133" height="346" key="GridCell.Tab.0.center" timestamp="1598264011514">
+    <state width="2133" height="385" key="GridCell.Tab.0.bottom/0.0.2194.1194@0.0.2194.1194" timestamp="1599552834392" />
+    <state width="2133" height="385" key="GridCell.Tab.0.center" timestamp="1599552834392">
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
-    <state width="2133" height="346" key="GridCell.Tab.0.center/0.0.2194.1194@0.0.2194.1194" timestamp="1598264011514" />
-    <state width="2133" height="346" key="GridCell.Tab.0.left" timestamp="1598264011514">
+    <state width="2133" height="385" key="GridCell.Tab.0.center/0.0.2194.1194@0.0.2194.1194" timestamp="1599552834392" />
+    <state width="2133" height="385" key="GridCell.Tab.0.left" timestamp="1599552834392">
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
-    <state width="2133" height="346" key="GridCell.Tab.0.left/0.0.2194.1194@0.0.2194.1194" timestamp="1598264011514" />
-    <state width="2133" height="346" key="GridCell.Tab.0.right" timestamp="1598264011514">
+    <state width="2133" height="385" key="GridCell.Tab.0.left/0.0.2194.1194@0.0.2194.1194" timestamp="1599552834392" />
+    <state width="2133" height="385" key="GridCell.Tab.0.right" timestamp="1599552834392">
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
-    <state width="2133" height="346" key="GridCell.Tab.0.right/0.0.2194.1194@0.0.2194.1194" timestamp="1598264011514" />
+    <state width="2133" height="385" key="GridCell.Tab.0.right/0.0.2194.1194@0.0.2194.1194" timestamp="1599552834392" />
     <state width="2133" height="346" key="GridCell.Tab.1.bottom" timestamp="1598264011514">
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
@@ -239,6 +256,18 @@
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
     <state x="371" y="68" key="SettingsEditor/0.0.2194.1194@0.0.2194.1194" timestamp="1598257042561" />
+    <state x="917" y="413" width="435" height="368" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1598611482328">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="917" y="413" width="435" height="368" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.2194.1194@0.0.2194.1194" timestamp="1598611482328" />
+    <state x="472" y="83" key="com.intellij.database.dbimport.ImportDialog" timestamp="1598403016835">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="472" y="83" key="com.intellij.database.dbimport.ImportDialog/0.0.2194.1194@0.0.2194.1194" timestamp="1598403016835" />
+    <state x="697" y="308" key="com.intellij.database.dbimport.ImportUtil.ChooseTargetDialog" timestamp="1598402990326">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="697" y="308" key="com.intellij.database.dbimport.ImportUtil.ChooseTargetDialog/0.0.2194.1194@0.0.2194.1194" timestamp="1598402990326" />
     <state x="910" y="144" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1597828156893">
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
@@ -250,9 +279,12 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_all$019___iter__.coverage" NAME="019-__iter__ Coverage Results" MODIFIED="1598255661043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_all$027_.coverage" NAME="027-调试代码 Coverage Results" MODIFIED="1598576412142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_all$pythonExcel.coverage" NAME="python连接Excel Coverage Results" MODIFIED="1597381982409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_work" />
     <SUITE FILE_PATH="coverage/python_all$008_.coverage" NAME="008-函数模块 Coverage Results" MODIFIED="1597647274404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_all$021___getattr__.coverage" NAME="021-__getattr__ Coverage Results" MODIFIED="1598259286181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_all$028_logging.coverage" NAME="028-logging日志 Coverage Results" MODIFIED="1598600527384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_all$031_BytesIO.coverage" NAME="031-BytesIO Coverage Results" MODIFIED="1599042427235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_all$002_filter.coverage" NAME="002-filter Coverage Results" MODIFIED="1597311757431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_all$003_sorted.coverage" NAME="003-sorted函数 Coverage Results" MODIFIED="1597313213263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_all$017__property.coverage" NAME="017-@property装饰器 Coverage Results" MODIFIED="1597921483208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -260,7 +292,8 @@
     <SUITE FILE_PATH="coverage/python_all$006_.coverage" NAME="006-装饰器 Coverage Results" MODIFIED="1597644309327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_all$019_.coverage" NAME="019-魔法方法 Coverage Results" MODIFIED="1598009005272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_all$001_test.coverage" NAME="001-test Coverage Results" MODIFIED="1597312792432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_all$024_.coverage" NAME="024-元类 Coverage Results" MODIFIED="1598263782419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_all$024_.coverage" NAME="024-元类 Coverage Results" MODIFIED="1598336225738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_all$032_os.coverage" NAME="032-os模块 Coverage Results" MODIFIED="1599552769035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_all$005_.coverage" NAME="005-匿名函数 Coverage Results" MODIFIED="1597827385649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_all$test.coverage" NAME="test Coverage Results" MODIFIED="1597395793342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Openpyxl" />
     <SUITE FILE_PATH="coverage/python_all$011_.coverage" NAME="011-获取对象的所有属性和方法 Coverage Results" MODIFIED="1597650968456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -269,10 +302,11 @@
     <SUITE FILE_PATH="coverage/python_all$012_pythonsetattr.coverage" NAME="012-python的setattr属性 Coverage Results" MODIFIED="1597652327917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_all$007_.coverage" NAME="007-偏函数 Coverage Results" MODIFIED="1597645936288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_all$pythonExcel__1_.coverage" NAME="python连接Excel (1) Coverage Results" MODIFIED="1597386188768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Openpyxl" />
+    <SUITE FILE_PATH="coverage/python_all$030_StringIO.coverage" NAME="030-StringIO Coverage Results" MODIFIED="1599042232504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_all$016___slots__.coverage" NAME="016-__slots__方法 Coverage Results" MODIFIED="1597920469097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_all$013_.coverage" NAME="013-实例属性和类属性 Coverage Results" MODIFIED="1597652445580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_all$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1597394915302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Openpyxl" />
-    <SUITE FILE_PATH="coverage/python_all$023_.coverage" NAME="023-枚举类 Coverage Results" MODIFIED="1598261379242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_all$023_.coverage" NAME="023-枚举类 Coverage Results" MODIFIED="1599551325294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_all$010_.coverage" NAME="010-类的继承和多态 Coverage Results" MODIFIED="1597649928216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_all$022___call__.coverage" NAME="022-__call__ Coverage Results" MODIFIED="1598259746054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_all$014_python.coverage" NAME="014-python的字符编码 Coverage Results" MODIFIED="1597918685989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
