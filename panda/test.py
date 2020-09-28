@@ -1,0 +1,52 @@
+import pandas as pd
+
+# 表头
+head = pd.read_csv('23418796884018531.csv', header=0, encoding='ISO_8859_1', sep=None, engine='python')
+
+# print(head['snapshot-date'])
+
+
+body = pd.read_csv('23418796884018531.csv', encoding='ISO_8859_1', sep=None, engine='python')
+print(head.values[0])
+
+# print(head.loc[:])
+# for i in range(len(body)):
+    #
+    # print(body['snapshot-date'][i])
+    # print(body['snapshot-date'][i])
+    # print(body['snapshot-date'][i])
+    # print(body['snapshot-date'][i])
+    # print(body['snapshot-date'][i])
+    # print(body['snapshot-date'][i])
+    # print(body['snapshot-date'][i])
+    # print(body['snapshot-date'][i])
+    # print(body['snapshot-date'][i])
+    # print(body['snapshot-date'][i])
+    # print(body['snapshot-date'][i])
+    # print(body['snapshot-date'][i])
+    # print(body['snapshot-date'][i])
+    # print(body['snapshot-date'][i])
+    # print(body['snapshot-date'][i])
+    # print(body['snapshot-date'][i])
+    # print(body['snapshot-date'][i])
+    # print(body['snapshot-date'][i])
+    # print(body['snapshot-date'][i])
+    # print(body['snapshot-date'][i])
+    # print(body['snapshot-date'][i])
+    # print(body['snapshot-date'][i])
+    # print(body['snapshot-date'][i])
+    # print(body['snapshot-date'][i])
+    # print(body['snapshot-date'][i])
+    # print(body['snapshot-date'][i])
+    # print(body['snapshot-date'][i])
+    # print(body['snapshot-date'][i])
+    # print(body['snapshot-date'][i])
+    # print(body['snapshot-date'][i])
+    # print(body['snapshot-date'][i])
+    # print(body['snapshot-date'][i])
+    # print(body['snapshot-date'][i])
+    # print(body['snapshot-date'][i])
+    # print(body['snapshot-date'][i])
+    # print(body['snapshot-date'][i])
+    # print(body['snapshot-date'][i])
+    # print(body['snapshot-date'][i])
